@@ -56,7 +56,7 @@ https://github.com/Valdem88/dev-17_terraform-teamwork-yakovlev_vs/tree/main/Atla
 #### Решение
 
 С aws сейчас работать не представляется возможным.
-Удалось найти решение. Проверить к сожалению не представляется возможным.  
+Удалось найти решение. Проверить к сожалению не получается.  
 
 https://registry.terraform.io/modules/terraform-aws-modules/ec2-instance/aws/latest
 
