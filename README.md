@@ -39,10 +39,8 @@ terraform-teamwork
 
 #### Решение
 
-С aws сейчас работать не представляется возможным.
-Удалось найти только рабочее решение. Но проверить не представляется возможным.  
+https://github.com/Valdem88/dev-17_terraform-teamwork-yakovlev_vs/tree/main/Atlantis%20files
 
-https://registry.terraform.io/modules/terraform-aws-modules/ec2-instance/aws/latest
 
 ## Задача 3. Знакомство с каталогом модулей. 
 
@@ -55,6 +53,14 @@ https://registry.terraform.io/modules/terraform-aws-modules/ec2-instance/aws/lat
 
 В качестве результата задания приложите ссылку на созданный блок конфигураций. 
 
+#### Решение
+
+С aws сейчас работать не представляется возможным.
+Удалось найти только рабочее решение. Но проверить не представляется возможным.  
+
+https://registry.terraform.io/modules/terraform-aws-modules/ec2-instance/aws/latest
+
+[main.tf](https://github.com/Valdem88/dev-17_terraform-teamwork-yakovlev_vs/blob/main/aws/main.tf)
 ---
 
 ### Как cдавать задание
